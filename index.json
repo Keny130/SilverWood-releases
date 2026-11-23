@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "assetlib_auth_method": "PER_LIBRARY",
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "silverwood",
+      "name": "SilverWood",
+      "tagline": "Blender Co Op Addon",
+      "version": "0.3.0",
+      "type": "add-on",
+      "maintainer": "SilverWood",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "permissions": {
+        "network": "Talk to Firebase Realtime Database"
+      },
+      "archive_url": "./silverwood-0.3.0.zip",
+      "archive_size": 543314,
+      "archive_hash": "sha256:c30167334ef63a92dd71ed040c3acee303ae7655138dc9a12eaca7d2e9b94495"
+    }
+  ]
+}
