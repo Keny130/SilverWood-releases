@@ -8,7 +8,7 @@
       "id": "silverwood",
       "name": "SilverWood",
       "tagline": "Blender Co Op Addon",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "type": "add-on",
       "maintainer": "SilverWood",
       "license": [
@@ -18,9 +18,9 @@
       "permissions": {
         "network": "Talk to Firebase Realtime Database"
       },
-      "archive_url": "./silverwood-0.5.1.zip",
-      "archive_size": 554884,
-      "archive_hash": "sha256:d4bd3c2c5d96fb46936910248599e81e05d73f02549d29fc3f63f00391091827"
+      "archive_url": "./silverwood-0.5.2.zip",
+      "archive_size": 555291,
+      "archive_hash": "sha256:f1cbb2f2cded5dfc7b44ed15e6102c6a6a06eeb25941be043d6952358c4dffbd"
     }
   ]
 }
